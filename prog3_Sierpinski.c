@@ -92,7 +92,7 @@ void main(int argc, char** argv)
 	glutInitWindowSize(500, 500);
 	glutCreateWindow("3DGasket"); //window with a title
 	//glutReshapeFunc(myReshape);
-	glutDisplayFunc(shape_display);
+	glutDisplayFunc(display);
 	glEnable(GL_DEPTH_TEST);
 	glClearColor(1.0, 1.0, 1.0, 1.0);
 	glutMainLoop();
