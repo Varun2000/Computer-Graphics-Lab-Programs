@@ -17,3 +17,8 @@ Write a program to recursively subdivides a tetrahedron to form 3D Sierpinski ga
 Program 4
 
 Write a program to fill any given polygon using scan-line area filling algorithm.
+
+Program 5
+
+Write a program to implement the Cohen-Sutherland line clipping algorithm. Make provision to specify the input for multiple lines, window for clipping and viewport for
+displaying the clipped image.
