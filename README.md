@@ -25,5 +25,13 @@ displaying the clipped image.
 
 Program 6
 
-Write a program to implement the Liang-Barsky line clipping algorithm. Make provision to specify the input for multiple lines, window for clipping and viewport for displaying the
-clipped image.
+Write a program to implement the Liang-Barsky line clipping algorithm. Make provision to specify the input for multiple lines, window for clipping and viewport for displaying 
+the clipped image.
+
+Program 7
+
+Write a program to implement the Cohen-Hodgeman polygon clipping algorithm. Make provision to specify the input polygon and window for clipping.
+
+Program 8
+
+Write a program to fill any given polygon using scan-line area filling algorithm.
