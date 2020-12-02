@@ -34,4 +34,20 @@ Write a program to implement the Cohen-Hodgeman polygon clipping algorithm. Make
 
 Program 8
 
-Write a program to fill any given polygon using scan-line area filling algorithm.
+Write a program to create a house like figure and reflect it about an axis defined by y=mx+c and rotate it about a given fixed point using OpenGL transformation functions.
+
+Program 9
+
+Write a program to model a car like figure using display lists.
+
+Program 10
+
+Write a program to create a color cube and spin it using OpenGL transformations.
+
+Program 11
+
+Write a program to generate a Limacon, Cardiod, Three-Leaf, spiral.
+
+Program 12
+
+Write a program to construct Bezier curve. Control points are supplied through keyboard/mouse.
