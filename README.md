@@ -1,4 +1,4 @@
-# Computer-Graphics-Lab-Programs
+# Computer-Graphics-Lab-Programs 1RV17CS134
 
 This repository contains the opengl programs which are done by Sai Venkata Varun Danda, 1RV17CS134.
 
